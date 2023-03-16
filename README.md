@@ -24,7 +24,7 @@
 
 
 
-_1) Higher the number of outgoing calls (last month), lower the chances for the customer to drop the service._
+**_1) Higher the number of outgoing calls (last month), lower the chances for the customer to drop the service._**
 
 <img width="308" alt="image" src="https://user-images.githubusercontent.com/70052374/225518629-2da5977e-26c0-4487-a754-085a0122560d.png">
 
@@ -32,7 +32,7 @@ _1) Higher the number of outgoing calls (last month), lower the chances for the 
 
 
 
-_2) Higher the duration for which a customer is inactive, higher the chances for the customer to drop the service._
+**_2) Higher the duration for which a customer is inactive, higher the chances for the customer to drop the service._**
 
 
 <img width="315" alt="image" src="https://user-images.githubusercontent.com/70052374/225518899-32cf99b5-a8db-45e7-9eab-f9800e8c6931.png">
@@ -42,7 +42,7 @@ _2) Higher the duration for which a customer is inactive, higher the chances for
 
 
 
-_3) Higher the number of recharges done by the customer, lower the chances for the customer to drop out._
+**_3) Higher the number of recharges done by the customer, lower the chances for the customer to drop out._**
 
 
 <img width="310" alt="image" src="https://user-images.githubusercontent.com/70052374/225519459-511785b6-b904-4eec-ae45-0ccd4ac24d29.png">
