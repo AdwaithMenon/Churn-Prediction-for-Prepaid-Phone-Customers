@@ -20,6 +20,44 @@
 * Understanding the traits of customers who are likely to drop the service allows the company to modify its services in order to improve customer retention rates.
 
 
+### **Summary of Dataset**
+
+#### **Initial Dataset**
+
+* No. of Variables / Columns : 190 
+
+* No. of Rows / Observations : 66469
+
+* No. of Missing Values : 8813
+
+* No. of Categorical Predictors : 18
+
+* No. Continuous Predictors : 171
+
+* Number of 1s in Dataset : 13907
+
+* Number of 0s in Dataset : 52562
+
+
+#### **Final Dataset (for modeling)**
+
+* No. of Variables / Columns : 85 
+
+* No. of Rows / Observations : 57656
+
+* No. of Missing Values : 0
+
+* No. of Categorical Predictors : 15
+
+* No. Continuous Predictors : 69
+
+* Number of 1s in Dataset : 7806
+
+* Number of 0s in Dataset : 49850
+
+
+
+
 ### **Observations**
 
 
@@ -46,5 +84,9 @@
 
 
 <img width="310" alt="image" src="https://user-images.githubusercontent.com/70052374/225519459-511785b6-b904-4eec-ae45-0ccd4ac24d29.png">
+
+
+
+## **Customer Behavior**
 
 
