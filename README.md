@@ -53,7 +53,8 @@
 
 **_1) Higher the number of outgoing calls (last month), lower the chances for the customer to drop the service._**
 
-<img width="308" alt="image" src="https://user-images.githubusercontent.com/70052374/225518629-2da5977e-26c0-4487-a754-085a0122560d.png">
+<img width="309" alt="image" src="https://user-images.githubusercontent.com/70052374/225522286-0d5c8f4d-562d-4a44-9051-c80ec38a89ba.png">
+
 
 
 
