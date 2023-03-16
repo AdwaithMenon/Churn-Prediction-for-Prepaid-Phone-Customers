@@ -37,18 +37,12 @@
 
 #### **Final Dataset (for modeling)**
 
-* No. of Variables / Columns : 85 
-
+* No. of Variables / Columns : 85
 * No. of Rows / Observations : 57656
-
 * No. of Missing Values : 0
-
 * No. of Categorical Predictors : 15
-
 * No. Continuous Predictors : 69
-
 * Number of 1s in Dataset : 7806
-
 * Number of 0s in Dataset : 49850
 
 
