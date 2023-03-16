@@ -20,6 +20,8 @@
 * Understanding the traits of customers who are likely to drop the service allows the company to modify its services in order to improve customer retention rates.
 
 
+
+
 ### **Summary of Dataset**
 
 #### **Initial Dataset**
@@ -87,6 +89,11 @@
 
 
 
-## **Customer Behavior**
+
+### **Recommendations**
+
+* _To summarize customer behavior, we can say that lesser engagement or higher period of inactivity from a customer increases the chance for them to drop the service._
+
+* _The best thing the phone company can do to improve customer retention is to reduce the period of inactivity by introducing attractive packages that offer best plans for both incoming & outgoing , thereby encouraging more recharges & hence, more activity._
 
 
