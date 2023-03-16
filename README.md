@@ -26,18 +26,12 @@
 
 #### **Initial Dataset**
 
-* No. of Variables / Columns : 190 
-
+* No. of Variables / Columns : 190
 * No. of Rows / Observations : 66469
-
 * No. of Missing Values : 8813
-
 * No. of Categorical Predictors : 18
-
 * No. Continuous Predictors : 171
-
 * Number of 1s in Dataset : 13907
-
 * Number of 0s in Dataset : 52562
 
 
